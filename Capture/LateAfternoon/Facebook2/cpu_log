@@ -1,0 +1,185 @@
+1.490387935166E9 cpu file processing started
+1.490387935169E9 start processing 1490387931
+1.490387935175E9 6ms| 79 com.facebook.orca=8 com.att.arocollector=4
+1.490387940166E9 cpu file processing started
+1.49038794017E9 start processing 1490387936
+1.490387940176E9 6ms| 21 com.att.arocollector=3
+1.490387945166E9 cpu file processing started
+1.490387945168E9 start processing 1490387941
+1.490387945171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387945179E9 11ms| 
+1.490387950166E9 cpu file processing started
+1.490387950169E9 start processing 1490387941
+1.490387950172E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387950184E9 15ms| 
+1.490387950185E9 start processing 1490387946
+1.490387950189E9 4ms| 1
+1.490387955166E9 cpu file processing started
+1.490387955168E9 start processing 1490387941
+1.490387955171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387955182E9 13ms| 
+1.490387955183E9 start processing 1490387952
+1.490387955187E9 4ms| 1
+1.490387960166E9 cpu file processing started
+1.490387960169E9 start processing 1490387941
+1.490387960171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387960182E9 13ms| 
+1.490387960182E9 start processing 1490387957
+1.490387960183E9 1ms| 
+1.490387965167E9 cpu file processing started
+1.490387965169E9 start processing 1490387941
+1.490387965172E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387965189E9 20ms| 
+1.49038796519E9 start processing 1490387957
+1.490387965194E9 4ms| 1
+1.490387965195E9 start processing 1490387962
+1.490387965196E9 1ms| 
+1.490387970167E9 cpu file processing started
+1.49038797017E9 start processing 1490387941
+1.490387970189E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387970212E9 36ms| 
+1.490387970213E9 start processing 1490387967
+1.490387970214E9 1ms| 
+1.490387970214E9 start processing 1490387962
+1.49038797022E9 5ms| 27 com.att.arocollector=17 com.facebook.orca=2
+1.490387975166E9 cpu file processing started
+1.490387975168E9 start processing 1490387941
+1.490387975171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387975198E9 29ms| 
+1.490387975198E9 start processing 1490387967
+1.490387975201E9 2ms| 1
+1.490387975202E9 start processing 1490387972
+1.490387975203E9 0ms| 
+1.490387980166E9 cpu file processing started
+1.490387980169E9 start processing 1490387941
+1.490387980173E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387980192E9 22ms| 
+1.490387980195E9 start processing 1490387978
+1.490387980196E9 1ms| 
+1.490387980197E9 start processing 1490387972
+1.490387980202E9 5ms| 1
+1.490387985166E9 cpu file processing started
+1.490387985168E9 start processing 1490387941
+1.490387985171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387985187E9 18ms| 
+1.490387985187E9 start processing 1490387978
+1.4903879852E9 12ms| 50 com.att.arocollector=35
+1.490387985202E9 start processing 1490387983
+1.490387985203E9 1ms| 
+1.490387990166E9 cpu file processing started
+1.490387990168E9 start processing 1490387941
+1.490387990171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387990182E9 13ms| 
+1.490387990183E9 start processing 1490387988
+1.490387990184E9 1ms| 
+1.490387990184E9 start processing 1490387983
+1.490387990191E9 7ms| 1
+1.490387995166E9 cpu file processing started
+1.490387995169E9 start processing 1490387941
+1.490387995172E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490387995181E9 12ms| 
+1.490387995181E9 start processing 1490387988
+1.490387995185E9 3ms| 1
+1.490387995186E9 start processing 1490387993
+1.490387995187E9 1ms| 
+1.490388000167E9 cpu file processing started
+1.490388000169E9 start processing 1490387941
+1.490388000174E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388000188E9 17ms| 
+1.490388000188E9 start processing 1490387999
+1.49038800019E9 0ms| 
+1.49038800019E9 start processing 1490387993
+1.490388000198E9 8ms| 1
+1.490388005166E9 cpu file processing started
+1.490388005169E9 start processing 1490387941
+1.490388005172E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388005195E9 26ms| 
+1.490388005196E9 start processing 1490387999
+1.490388005205E9 9ms| 1
+1.490388005206E9 start processing 1490388004
+1.490388005207E9 1ms| 
+1.490388010166E9 cpu file processing started
+1.490388010168E9 start processing 1490387941
+1.490388010171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388010186E9 17ms| 
+1.490388010189E9 start processing 1490388009
+1.490388010191E9 2ms| 
+1.490388010191E9 start processing 1490388004
+1.490388010198E9 6ms| 59 com.att.arocollector=43
+1.490388015166E9 cpu file processing started
+1.490388015168E9 start processing 1490387941
+1.490388015171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.49038801518E9 11ms| 
+1.49038801518E9 start processing 1490388009
+1.490388015184E9 4ms| 1
+1.490388015185E9 start processing 1490388014
+1.490388015186E9 1ms| 
+1.490388020167E9 cpu file processing started
+1.490388020169E9 start processing 1490387941
+1.490388020171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388020193E9 24ms| 
+1.490388020195E9 start processing 1490388020
+1.490388020203E9 8ms| 
+1.490388020204E9 start processing 1490388014
+1.490388020213E9 9ms| 44 com.att.arocollector=31
+1.490388025167E9 cpu file processing started
+1.490388025169E9 start processing 1490387941
+1.490388025172E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388025183E9 13ms| 
+1.490388025184E9 start processing 1490388020
+1.490388025189E9 5ms| 33 com.att.arocollector=25
+1.490388030166E9 cpu file processing started
+1.49038803017E9 start processing 1490387941
+1.490388030179E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388030202E9 27ms| 
+1.490388030202E9 start processing 1490388025
+1.490388030212E9 9ms| 1
+1.490388035166E9 cpu file processing started
+1.490388035169E9 start processing 1490387941
+1.490388035172E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388035185E9 16ms| 
+1.490388035185E9 start processing 1490388030
+1.490388035193E9 8ms| 57 com.att.arocollector=43
+1.490388040167E9 cpu file processing started
+1.490388040168E9 start processing 1490387941
+1.490388040171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388040185E9 16ms| 
+1.490388040185E9 start processing 1490388035
+1.490388040189E9 2nd line is not totalCpuLine; line= User 421 + Nice 3 + Sys 196 + Idle -50244 + IOW -387 + IRQ 0 + SIRQ 0 = -50011
+1.490388040207E9 21ms| 
+1.490388045166E9 cpu file processing started
+1.490388045169E9 start processing 1490387941
+1.490388045172E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388045194E9 25ms| 
+1.490388045195E9 start processing 1490388035
+1.490388045201E9 2nd line is not totalCpuLine; line= User 421 + Nice 3 + Sys 196 + Idle -50244 + IOW -387 + IRQ 0 + SIRQ 0 = -50011
+1.490388045225E9 30ms| 
+1.490388045226E9 start processing 1490388041
+1.490388045238E9 12ms| 1
+1.490388050166E9 cpu file processing started
+1.490388050168E9 start processing 1490387941
+1.49038805017E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.49038805018E9 11ms| 
+1.49038805018E9 start processing 1490388035
+1.490388050184E9 2nd line is not totalCpuLine; line= User 421 + Nice 3 + Sys 196 + Idle -50244 + IOW -387 + IRQ 0 + SIRQ 0 = -50011
+1.4903880502E9 19ms| 
+1.490388050201E9 start processing 1490388046
+1.490388050209E9 8ms| 43 com.att.arocollector=30
+1.490388055166E9 cpu file processing started
+1.490388055169E9 start processing 1490387941
+1.490388055171E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388055183E9 14ms| 
+1.490388055183E9 start processing 1490388035
+1.490388055186E9 2nd line is not totalCpuLine; line= User 421 + Nice 3 + Sys 196 + Idle -50244 + IOW -387 + IRQ 0 + SIRQ 0 = -50011
+1.490388055198E9 15ms| 
+1.490388055199E9 start processing 1490388051
+1.490388055205E9 5ms| 25 com.att.arocollector=18
+1.490388057405E9 cpu file processing started
+1.490388057407E9 start processing 1490387941
+1.49038805741E9 2nd line is not totalCpuLine; line= User 305 + Nice 84 + Sys 228 + Idle -105599 + IOW -659 + IRQ 0 + SIRQ 1 = -105640
+1.490388057422E9 14ms| 
+1.490388057423E9 start processing 1490388035
+1.490388057425E9 2nd line is not totalCpuLine; line= User 421 + Nice 3 + Sys 196 + Idle -50244 + IOW -387 + IRQ 0 + SIRQ 0 = -50011
+1.490388057434E9 11ms| 
+1.490388057434E9 start processing 1490388056
+1.490388057435E9 1ms| 

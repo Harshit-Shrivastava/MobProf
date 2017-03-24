@@ -1,0 +1,40 @@
+1.490388207264E9 cpu file processing started
+1.490388207266E9 start processing 1490388203
+1.490388207273E9 6ms| 55 com.att.arocollector=4 com.facebook.orca=1
+1.490388212263E9 cpu file processing started
+1.490388212265E9 start processing 1490388208
+1.490388212276E9 10ms| 87 com.facebook.orca=16 com.facebook.orca:videoplayer=7 com.att.arocollector=7 com.google.android.apps.photos=2 android.process.media=2
+1.490388217263E9 cpu file processing started
+1.490388217265E9 start processing 1490388213
+1.49038821727E9 4ms| 46 com.att.arocollector=26 com.facebook.orca=3
+1.490388222264E9 cpu file processing started
+1.490388222265E9 start processing 1490388218
+1.49038822227E9 5ms| 69 com.att.arocollector=32 com.facebook.orca=16
+1.490388227263E9 cpu file processing started
+1.490388227265E9 start processing 1490388224
+1.490388227268E9 2nd line is not totalCpuLine; line= User 491 + Nice 89 + Sys 263 + Idle -68343 + IOW -280 + IRQ 0 + SIRQ 2 = -67778
+1.49038822728E9 15ms| 
+1.490388232264E9 cpu file processing started
+1.490388232266E9 start processing 1490388224
+1.490388232269E9 2nd line is not totalCpuLine; line= User 491 + Nice 89 + Sys 263 + Idle -68343 + IOW -280 + IRQ 0 + SIRQ 2 = -67778
+1.49038823228E9 14ms| 
+1.49038823228E9 start processing 1490388229
+1.490388232281E9 0ms| 
+1.490388237263E9 cpu file processing started
+1.490388237266E9 start processing 1490388224
+1.490388237272E9 2nd line is not totalCpuLine; line= User 491 + Nice 89 + Sys 263 + Idle -68343 + IOW -280 + IRQ 0 + SIRQ 2 = -67778
+1.490388237288E9 22ms| 
+1.490388237289E9 start processing 1490388229
+1.490388237292E9 2nd line is not totalCpuLine; line= User 380 + Nice 1 + Sys 234 + Idle -68123 + IOW -297 + IRQ 0 + SIRQ 0 = -67805
+1.490388237313E9 24ms| 
+1.490388237314E9 start processing 1490388234
+1.490388237315E9 1ms| 
+1.490388238153E9 cpu file processing started
+1.490388238157E9 start processing 1490388224
+1.49038823816E9 2nd line is not totalCpuLine; line= User 491 + Nice 89 + Sys 263 + Idle -68343 + IOW -280 + IRQ 0 + SIRQ 2 = -67778
+1.490388238174E9 16ms| 
+1.490388238174E9 start processing 1490388229
+1.490388238177E9 2nd line is not totalCpuLine; line= User 380 + Nice 1 + Sys 234 + Idle -68123 + IOW -297 + IRQ 0 + SIRQ 0 = -67805
+1.490388238192E9 17ms| 
+1.490388238192E9 start processing 1490388234
+1.490388238201E9 5ms| 58 com.att.arocollector=27 com.facebook.orca:videoplayer=4 com.facebook.orca=3

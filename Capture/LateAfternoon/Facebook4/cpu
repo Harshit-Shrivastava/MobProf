@@ -1,0 +1,83 @@
+1.490391356E9 98 com.google.android.apps.docs=5 com.facebook.orca=2 com.att.arocollector=2
+1.490391363E9 96 com.att.arocollector=24 com.facebook.orca=3 android.process.media=1 com.google.android.gms.persistent=1
+1.490391368E9 96 com.att.arocollector=22 com.facebook.orca=6 com.facebook.orca:videoplayer=4 com.google.android.gms=2 com.google.process.gapps=1
+1.490391374E9 95 com.att.arocollector=22 com.facebook.orca=9 com.facebook.orca:videoplayer=5 com.instructure.candroid=3
+1.490391379E9 99 com.att.arocollector=36 com.facebook.orca=10 com.facebook.orca:videoplayer=7 com.instructure.candroid=3 com.google.android.gm=2 com.whatsapp=2
+1.490391384E9 98 com.att.arocollector=38 com.facebook.orca=5 com.facebook.orca:videoplayer=4 com.gaana=2 com.whatsapp=2 com.google.android.gms.persistent=1
+1.49039139E9 97 com.att.arocollector=47 com.google.android.gms.persistent=3 com.facebook.orca=2 com.whatsapp=2 com.google.android.apps.fitness=1 com.google.process.gapps=1 com.google.android.apps.photos=1
+1.490391395E9 93 com.att.arocollector=26 com.google.android.apps.fitness=16 com.google.android.gms.persistent=5 com.whatsapp=2
+1.490391401E9 86 com.att.arocollector=27 com.google.android.apps.fitness=7 com.whatsapp=3 com.facebook.orca=3
+1.490391406E9 99 com.att.arocollector=53 com.facebook.orca=6 com.facebook.katana:videoplayer=4 com.google.android.gms.persistent=3 com.viber.voip=1
+1.490391411E9 83 com.att.arocollector=51 com.google.android.googlequicksearchbox:search=5
+1.490391416E9 78 com.att.arocollector=61
+1.490391422E9 81 com.att.arocollector=67
+1.490391427E9 73 com.att.arocollector=54 com.facebook.orca=2
+1.490391432E9 74 com.att.arocollector=52
+1.490391437E9 78 com.att.arocollector=64
+1.490391443E9 76 com.att.arocollector=61
+1.490391448E9 73 com.att.arocollector=57
+1.490391453E9 68 com.att.arocollector=49
+1.490391458E9 72 com.att.arocollector=39
+1.490391464E9 85 com.att.arocollector=27 com.facebook.orca=20
+1.490391469E9 65 com.att.arocollector=39 com.facebook.orca=4
+1.490391474E9 64 com.att.arocollector=39
+1.490391479E9 67 com.att.arocollector=34
+1.490391484E9 60 com.att.arocollector=34
+1.49039149E9 69 com.att.arocollector=47 top=1
+1.490391495E9 67 com.att.arocollector=38
+1.4903915E9 63 com.att.arocollector=41
+1.490391505E9 73 com.att.arocollector=42
+1.490391511E9 73 com.att.arocollector=48 top=1
+1.490391516E9 69 com.att.arocollector=41
+1.490391521E9 64 com.att.arocollector=29 com.facebook.orca=13
+1.490391526E9 71 com.att.arocollector=28 com.facebook.orca=16
+1.490391532E9 68 com.att.arocollector=28 com.facebook.orca=20
+1.490391537E9 66 com.att.arocollector=35 com.facebook.orca=8
+1.490391542E9 62 com.att.arocollector=36 com.facebook.orca=7
+1.490391548E9 66 com.att.arocollector=36 com.facebook.orca=7
+1.490391553E9 61 com.att.arocollector=34 com.facebook.orca=7
+1.490391558E9 61 com.att.arocollector=47 com.facebook.orca=9
+1.490391563E9 58 com.att.arocollector=31 com.facebook.orca=7
+1.490391569E9 62 com.att.arocollector=35 com.facebook.orca=8
+1.490391574E9 63 com.att.arocollector=33 com.facebook.orca=7
+1.490391579E9 64 com.att.arocollector=36 com.facebook.orca=8
+1.490391584E9 69 com.att.arocollector=35 com.facebook.orca=8
+1.49039159E9 59 com.att.arocollector=32 com.facebook.orca=7
+1.490391595E9 64 com.att.arocollector=34 com.facebook.orca=7
+1.4903916E9 70 com.att.arocollector=28 com.facebook.orca=5
+1.490391605E9 82 com.att.arocollector=25 com.facebook.orca=6 com.google.android.gms=1 com.google.android.gms.persistent=1
+1.490391611E9 67 com.att.arocollector=35 com.facebook.orca=7
+1.490391616E9 70 com.facebook.orca=27 com.att.arocollector=25
+1.490391621E9 66 com.att.arocollector=28 com.facebook.orca=17
+1.490391626E9 62 com.att.arocollector=34 com.facebook.orca=7
+1.490391632E9 64 com.att.arocollector=34 com.facebook.orca=7
+1.490391637E9 65 com.att.arocollector=38 com.facebook.orca=8
+1.490391642E9 65 com.att.arocollector=39 com.facebook.orca=9
+1.490391647E9 71 com.att.arocollector=39 com.facebook.orca=10 top=1
+1.490391653E9 62 com.att.arocollector=36 com.facebook.orca=8
+1.490391658E9 62 com.att.arocollector=35 com.facebook.orca=8
+1.490391663E9 66 com.att.arocollector=31 com.facebook.orca=11
+1.490391668E9 60 com.att.arocollector=34 com.facebook.orca=7
+1.490391674E9 68 com.att.arocollector=40 com.facebook.orca=8 top=1
+1.490391679E9 67 com.att.arocollector=38 com.facebook.orca=9
+1.490391684E9 64 com.att.arocollector=35 com.facebook.orca=7
+1.49039169E9 63 com.att.arocollector=35 com.facebook.orca=8 com.google.android.gms=1
+1.490391695E9 64 com.att.arocollector=36 com.facebook.orca=7
+1.4903917E9 61 com.att.arocollector=34 com.facebook.orca=7
+1.490391705E9 67 com.att.arocollector=39 com.facebook.orca=9
+1.490391711E9 70 com.att.arocollector=27 com.facebook.orca=8 com.google.android.gms=1
+1.490391716E9 62 com.att.arocollector=33 com.facebook.orca=9
+1.490391721E9 65 com.att.arocollector=36 com.facebook.orca=8 com.google.android.googlequicksearchbox:interactor=1
+1.490391726E9 61 com.att.arocollector=36 com.facebook.orca=7
+1.490391732E9 63 com.att.arocollector=35 com.facebook.orca=7 com.google.android.googlequicksearchbox:interactor=1
+1.490391737E9 63 com.att.arocollector=38 com.facebook.orca=8
+1.490391742E9 65 com.att.arocollector=37 com.facebook.orca=8
+1.490391747E9 61 com.att.arocollector=34 com.facebook.orca=7
+1.490391753E9 64 com.att.arocollector=37 com.facebook.orca=7
+1.490391758E9 65 com.att.arocollector=40 com.facebook.orca=7
+1.490391763E9 67 com.att.arocollector=42 com.facebook.orca=8 top=1
+1.490391768E9 64 com.att.arocollector=35 com.facebook.orca=6 com.google.android.gms.persistent=1
+1.490391774E9 71 com.att.arocollector=44 com.facebook.orca=9 top=1
+1.490391779E9 58 com.att.arocollector=33 com.facebook.orca=6
+1.490391784E9 62 com.att.arocollector=34 com.facebook.orca=8
+1.490391789E9 61 com.att.arocollector=32 com.facebook.orca=6

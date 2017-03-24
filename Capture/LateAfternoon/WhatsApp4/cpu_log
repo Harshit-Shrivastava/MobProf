@@ -1,0 +1,36 @@
+1.490390978601E9 cpu file processing started
+1.490390978602E9 start processing 1490390974
+1.490390978607E9 5ms| 85 com.att.arocollector=14 com.whatsapp=2 android.process.acore=2 com.google.android.gms.persistent=1
+1.490390983601E9 cpu file processing started
+1.490390983603E9 start processing 1490390979
+1.490390983607E9 4ms| 81 com.att.arocollector=25 com.whatsapp=14 android.process.media=1
+1.490390988601E9 cpu file processing started
+1.490390988605E9 start processing 1490390984
+1.49039098861E9 5ms| 71 com.att.arocollector=27 com.whatsapp=7
+1.490390993601E9 cpu file processing started
+1.490390993603E9 start processing 1490390990
+1.490390993612E9 9ms| 82 com.whatsapp=22 com.att.arocollector=21 android.process.media=2
+1.490390998601E9 cpu file processing started
+1.490390998603E9 start processing 1490390995
+1.49039099861E9 7ms| 77 com.att.arocollector=24 com.whatsapp=8
+1.490391003601E9 cpu file processing started
+1.490391003604E9 start processing 1490391000
+1.490391003605E9 1ms| 
+1.490391008602E9 cpu file processing started
+1.490391008607E9 start processing 1490391000
+1.490391008613E9 6ms| 89 com.whatsapp=26 com.att.arocollector=22 android.process.media=2
+1.490391008616E9 start processing 1490391005
+1.490391008619E9 2ms| 
+1.490391013601E9 cpu file processing started
+1.490391013604E9 start processing 1490391011
+1.490391013606E9 1ms| 
+1.490391013607E9 start processing 1490391005
+1.490391013619E9 10ms| 76 com.att.arocollector=24 com.whatsapp=9
+1.490391018601E9 cpu file processing started
+1.490391018603E9 start processing 1490391011
+1.49039101861E9 7ms| 70 com.att.arocollector=34 com.whatsapp=11
+1.490391018611E9 start processing 1490391016
+1.490391018613E9 2ms| 
+1.490391021197E9 cpu file processing started
+1.490391021199E9 start processing 1490391016
+1.490391021203E9 4ms| 64 com.att.arocollector=36

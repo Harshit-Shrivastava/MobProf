@@ -1,0 +1,15 @@
+KEYWORD,IMEI,,Y
+KEYWORD,MAC Address,02:00:00:00:00:00,Y
+KEYWORD,Device Phone Number,,Y
+KEYWORD,Location (Longitude),,Y
+KEYWORD,Location (Latitude),,Y
+KEYWORD,Location (City),,Y
+KEYWORD,Contact Name,rohit chaturvedi,Y
+KEYWORD,Contact Email,rohitflash@gmail.com,Y
+KEYWORD,Contact Phone Number,+919769026713,Y
+KEYWORD,Contact Name,Vikash Anand,Y
+KEYWORD,Contact Email,vikashanand.mit@gmail.com,Y
+KEYWORD,Contact Phone Number,+919620730482,Y
+KEYWORD,Contact Name,Kopal Agarwal,Y
+KEYWORD,Contact Email,kopal278@gmail.com,Y
+KEYWORD,Contact Phone Number,+91 81057 20619,Y

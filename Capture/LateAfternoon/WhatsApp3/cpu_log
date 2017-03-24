@@ -1,0 +1,83 @@
+1.490390757471E9 cpu file processing started
+1.490390757475E9 start processing 1490390753
+1.490390757498E9 22ms| 63 com.google.android.apps.docs=3 com.google.android.gms=2 com.estrongs.android.pop=1 com.google.android.gms.persistent=1
+1.490390762455E9 cpu file processing started
+1.490390762456E9 start processing 1490390759
+1.490390762457E9 0ms| 
+1.490390767456E9 cpu file processing started
+1.490390767457E9 start processing 1490390759
+1.49039076746E9 3ms| 33 com.google.android.googlequicksearchbox:interactor=1
+1.490390767461E9 start processing 1490390764
+1.490390767461E9 0ms| 
+1.490390772456E9 cpu file processing started
+1.490390772459E9 start processing 1490390769
+1.490390772469E9 2ms| 
+1.49039077247E9 start processing 1490390764
+1.490390772484E9 13ms| 32 com.google.android.gms=3 com.google.android.googlequicksearchbox:interactor=1 top=1
+1.490390777455E9 cpu file processing started
+1.490390777456E9 start processing 1490390769
+1.49039077746E9 3ms| 29 top=1 com.google.android.googlequicksearchbox:interactor=1
+1.490390777461E9 start processing 1490390774
+1.490390777461E9 0ms| 
+1.490390782456E9 cpu file processing started
+1.490390782457E9 start processing 1490390780
+1.490390782458E9 1ms| 
+1.490390782458E9 start processing 1490390774
+1.490390782461E9 3ms| 34 com.google.android.googlequicksearchbox:interactor=3 top=1
+1.490390787455E9 cpu file processing started
+1.490390787456E9 start processing 1490390780
+1.49039078746E9 4ms| 33 com.google.android.googlequicksearchbox:interactor=1
+1.49039078746E9 start processing 1490390785
+1.490390787461E9 1ms| 
+1.490390792455E9 cpu file processing started
+1.490390792456E9 start processing 1490390790
+1.490390792457E9 1ms| 
+1.490390792457E9 start processing 1490390785
+1.490390792461E9 4ms| 32 com.google.android.googlequicksearchbox:interactor=3 top=1
+1.490390797455E9 cpu file processing started
+1.490390797458E9 start processing 1490390790
+1.490390797466E9 8ms| 28 top=1 com.google.android.googlequicksearchbox:interactor=1
+1.490390797467E9 start processing 1490390795
+1.490390797468E9 0ms| 
+1.490390802456E9 cpu file processing started
+1.490390802457E9 start processing 1490390800
+1.490390802458E9 1ms| 
+1.490390802459E9 start processing 1490390795
+1.490390802464E9 5ms| 51 com.google.android.gms.persistent=2
+1.490390807455E9 cpu file processing started
+1.490390807457E9 start processing 1490390800
+1.490390807463E9 6ms| 86 com.att.arocollector=17 com.whatsapp=3 android.process.acore=2
+1.490390807464E9 start processing 1490390806
+1.490390807465E9 0ms| 
+1.490390812455E9 cpu file processing started
+1.490390812457E9 start processing 1490390811
+1.490390812458E9 1ms| 
+1.490390812458E9 start processing 1490390806
+1.490390812465E9 6ms| 91 com.att.arocollector=25 com.whatsapp=10 com.instructure.candroid=4 com.google.android.apps.photos=2 android.process.media=1
+1.490390817455E9 cpu file processing started
+1.490390817458E9 start processing 1490390811
+1.490390817463E9 5ms| 80 com.att.arocollector=26 com.whatsapp=14
+1.490390817464E9 start processing 1490390816
+1.490390817465E9 1ms| 
+1.490390822456E9 cpu file processing started
+1.490390822458E9 start processing 1490390821
+1.490390822459E9 1ms| 
+1.490390822459E9 start processing 1490390816
+1.490390822463E9 4ms| 63 com.att.arocollector=28 com.whatsapp=9
+1.490390827455E9 cpu file processing started
+1.490390827457E9 start processing 1490390821
+1.490390827465E9 7ms| 80 com.att.arocollector=27 com.whatsapp=24
+1.490390827466E9 start processing 1490390827
+1.490390827467E9 0ms| 
+1.490390832455E9 cpu file processing started
+1.490390832458E9 start processing 1490390827
+1.490390832466E9 6ms| 84 com.whatsapp=32 com.att.arocollector=24
+1.490390837456E9 cpu file processing started
+1.490390837458E9 start processing 1490390832
+1.490390837462E9 4ms| 80 com.whatsapp=28 com.att.arocollector=25
+1.490390842455E9 cpu file processing started
+1.490390842457E9 start processing 1490390837
+1.490390842462E9 5ms| 69 com.att.arocollector=41 com.whatsapp=1
+1.490390845339E9 cpu file processing started
+1.490390845341E9 start processing 1490390842
+1.490390845342E9 1ms| 
