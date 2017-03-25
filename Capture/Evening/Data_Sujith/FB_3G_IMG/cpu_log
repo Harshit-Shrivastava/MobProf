@@ -1,0 +1,49 @@
+1.490409747316E9 cpu file processing started
+1.490409747318E9 start processing killcpumon.sh
+1.49040974732E9 2ms| 
+1.49040974732E9 start processing 1490409745
+1.490409747334E9 14ms| 96 com.att.arocollector=7 top=6 com.facebook.orca=4 kswapd0=3 system_server=3 /sbin/adbd=2 /system/bin/surfaceflinger=2 mmcqd/0=1
+1.490409752316E9 cpu file processing started
+1.490409752319E9 start processing killcpumon.sh
+1.490409752321E9 1ms| 
+1.490409752321E9 start processing 1490409748
+1.490409752327E9 6ms| 67 com.att.arocollector=9 top=7 com.microsoft.office.onenote=4 com.google.android.apps.docs=2 /system/bin/thermal-engine=2 kswapd0=2 mmcqd/0=1 /sbin/adbd=1
+1.490409752329E9 start processing 1490409750
+1.490409752334E9 5ms| 79 com.att.arocollector=16 top=14 /system/bin/surfaceflinger=7 /sbin/adbd=5 kswapd0=5 com.android.systemui=5 media.codec=3 com.facebook.orca:videoplayer=3
+1.490409757316E9 cpu file processing started
+1.490409757319E9 start processing killcpumon.sh
+1.490409757321E9 1ms| 
+1.490409757321E9 start processing 1490409752
+1.490409757324E9 3ms| 40 com.att.arocollector=14 top=11
+1.490409757325E9 start processing 1490409754
+1.49040975733E9 5ms| 73 com.att.arocollector=15 top=12 com.google.android.talk=9 /sbin/adbd=6 system_server=4 /system/bin/surfaceflinger=3 com.facebook.orca=3 kswapd0=1
+1.490409757331E9 start processing 1490409757
+1.490409757333E9 1ms| 
+1.490409762316E9 cpu file processing started
+1.490409762319E9 start processing killcpumon.sh
+1.490409762321E9 2ms| 
+1.490409762321E9 start processing 1490409759
+1.490409762325E9 4ms| 58 com.att.arocollector=19 top=17 com.facebook.orca=6 irq/504-synapti=2 /system/bin/surfaceflinger=2 ksoftirqd/0=2 system_server=2
+1.490409762326E9 start processing 1490409761
+1.490409762332E9 6ms| 94 com.att.arocollector=18 top=15 com.facebook.orca=8 /sbin/adbd=8 kswapd0=6 system_server=5 rcu_preempt=1 ksoftirqd/2=1
+1.490409762332E9 start processing 1490409757
+1.490409762337E9 4ms| 38 com.att.arocollector=16 top=14 msm-core:sampli=1
+1.490409767316E9 cpu file processing started
+1.490409767319E9 start processing killcpumon.sh
+1.490409767321E9 2ms| 
+1.490409767321E9 start processing 1490409763
+1.490409767327E9 6ms| 96 com.att.arocollector=21 top=18 com.facebook.orca=16 kswapd0=5 system_server=3 rcu_preempt=1 kworker/u13:5=1 mmcqd/0=1
+1.49040976733E9 start processing 1490409766
+1.490409767335E9 5ms| 97 com.facebook.orca=36 com.att.arocollector=22 top=20 kworker/u12:6=2 mdss_fb0=2 /system/bin/surfaceflinger=2 system_server=2
+1.490409772316E9 cpu file processing started
+1.490409772319E9 start processing killcpumon.sh
+1.490409772321E9 2ms| 
+1.490409772321E9 start processing 1490409768
+1.490409772326E9 4ms| 78 com.att.arocollector=29 top=27 /sbin/adbd=13 com.android.defcontainer=5 com.whatsapp=2
+1.490409772329E9 start processing 1490409770
+1.490409772334E9 4ms| 64 com.att.arocollector=28 top=23
+1.490409774252E9 cpu file processing started
+1.490409774254E9 start processing killcpumon.sh
+1.490409774256E9 2ms| 
+1.490409774256E9 start processing 1490409773
+1.490409774261E9 3ms| 94 com.att.arocollector=33 top=27 app_process=25 kworker/u13:2=2 /sbin/adbd=2 rcu_preempt=2

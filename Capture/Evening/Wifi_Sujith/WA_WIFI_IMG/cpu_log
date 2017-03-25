@@ -1,0 +1,88 @@
+1.490408111652E9 cpu file processing started
+1.490408111655E9 start processing killcpumon.sh
+1.490408111657E9 2ms| 
+1.490408111658E9 start processing 1490408110
+1.49040811166E9 2ms| 
+1.490408116653E9 cpu file processing started
+1.490408116658E9 start processing killcpumon.sh
+1.490408116662E9 4ms| 
+1.490408116663E9 start processing 1490408110
+1.490408116668E9 5ms| 88 system_server=13 /sbin/adbd=5 /system/bin/surfaceflinger=2 com.att.arocollector=2 com.whatsapp=2 top=2 kswapd0=1 mmcqd/0=1
+1.49040811667E9 start processing 1490408114
+1.490408116677E9 7ms| 96 com.att.arocollector=23 top=19 /system/bin/netd=5 com.google.android.talk=3 kswapd0=3 ksoftirqd/1=1
+1.490408116678E9 start processing 1490408116
+1.49040811668E9 2ms| 
+1.490408121653E9 cpu file processing started
+1.490408121656E9 start processing killcpumon.sh
+1.490408121658E9 2ms| 
+1.490408121659E9 start processing 1490408118
+1.490408121663E9 4ms| 85 com.att.arocollector=25 top=22 com.google.android.gm=14 rcu_preempt=2
+1.490408121664E9 start processing 1490408121
+1.490408121672E9 7ms| 89 com.att.arocollector=27 top=18 /sbin/adbd=10 com.amazon.mShop.android.shopping=5 kswapd0=5 screencap=3 android.process.media=1 /system/bin/logd=1
+1.490408121675E9 start processing 1490408116
+1.490408121686E9 11ms| 93 com.att.arocollector=28 top=20 com.google.android.gm=16 /sbin/adbd=10 nanohub=2 kworker/1:1=2 screencap=2 /system/bin/sdcard=2
+1.490408126652E9 cpu file processing started
+1.490408126655E9 start processing killcpumon.sh
+1.490408126656E9 1ms| 
+1.490408126657E9 start processing 1490408123
+1.490408126667E9 10ms| 91 com.att.arocollector=31 top=22 android.process.media=13 kswapd0=6 mmcqd/0=4 /system/bin/sdcard=2 ksoftirqd/0=2
+1.490408126668E9 start processing 1490408125
+1.490408126675E9 6ms| 85 com.att.arocollector=20 top=18 android.process.media=14 /sbin/adbd=10 kworker/u12:6=2 ksoftirqd/0=2 /system/bin/sdcard=2 screencap=2
+1.490408131652E9 cpu file processing started
+1.490408131655E9 start processing killcpumon.sh
+1.490408131657E9 1ms| 
+1.490408131657E9 start processing 1490408127
+1.490408131664E9 7ms| 90 com.att.arocollector=30 top=26 android.process.media=9 /sbin/adbd=9 /system/bin/surfaceflinger=4 system=2 screencap=2
+1.490408131676E9 start processing 1490408130
+1.490408131683E9 6ms| 86 com.att.arocollector=30 top=23 com.google.android.talk=13 system_server=6 com.google.android.gms.persistent=2 com.google.android.keep=2 /system/bin/sdcard=2 kworker/u12:3=2
+1.490408136652E9 cpu file processing started
+1.490408136655E9 start processing killcpumon.sh
+1.490408136656E9 1ms| 
+1.490408136657E9 start processing 1490408132
+1.490408136662E9 4ms| 98 com.whatsapp=39 com.att.arocollector=30 top=13 system_server=10 /sbin/adbd=9 /system/bin/surfaceflinger=7 com.google.android.gm=6 kswapd0=2
+1.490408136662E9 start processing 1490408135
+1.490408136668E9 5ms| 96 com.att.arocollector=29 top=17 /sbin/adbd=6 media.codec=6 com.google.android.gm=6 /system/bin/logd=3 media.extractor=3 screencap=1
+1.490408141653E9 cpu file processing started
+1.490408141658E9 start processing killcpumon.sh
+1.49040814166E9 2ms| 
+1.490408141662E9 start processing 1490408137
+1.490408141668E9 6ms| 84 com.att.arocollector=23 top=21 com.google.android.gm=17
+1.490408141669E9 start processing 1490408139
+1.490408141675E9 5ms| 95 com.att.arocollector=31 top=24 com.google.android.gm=19 /sbin/adbd=7 com.whatsapp=4 kworker/u12:3=2 kworker/u12:2=2 /system/bin/perfd=2
+1.490408146653E9 cpu file processing started
+1.490408146656E9 start processing killcpumon.sh
+1.490408146663E9 7ms| 
+1.490408146668E9 start processing 1490408142
+1.490408146678E9 10ms| 90 com.att.arocollector=22 top=22 com.google.android.gm=14 com.whatsapp=10 /sbin/adbd=6 /system/bin/surfaceflinger=4 nanohub=2 kworker/u13:0=2
+1.49040814668E9 start processing 1490408144
+1.49040814669E9 9ms| 91 com.att.arocollector=20 top=20 com.google.android.gm=10 com.whatsapp=8 screencap=6 /system/bin/surfaceflinger=4 /sbin/adbd=4 com.microsoft.office.onenote=2
+1.490408151652E9 cpu file processing started
+1.490408151662E9 start processing killcpumon.sh
+1.490408151664E9 2ms| 
+1.490408151665E9 start processing 1490408146
+1.490408151677E9 12ms| 95 com.att.arocollector=20 top=20 com.whatsapp=10 com.google.android.gm=6 /sbin/adbd=6 com.google.android.apps.photos=4 screencap=2 system_server=2
+1.49040815168E9 start processing 1490408149
+1.490408151693E9 12ms| 93 top=16 com.att.arocollector=15 com.whatsapp=15 /sbin/adbd=5 /system/bin/surfaceflinger=3 system_server=3 rcu_preempt=1 kworker/u13:5=1
+1.490408151694E9 start processing 1490408151
+1.490408151695E9 1ms| 
+1.490408156652E9 cpu file processing started
+1.490408156655E9 start processing killcpumon.sh
+1.490408156657E9 2ms| 
+1.490408156657E9 start processing 1490408153
+1.490408156663E9 4ms| 97 com.att.arocollector=20 top=17 com.whatsapp=16 /sbin/adbd=7 /system/bin/surfaceflinger=4 kswapd0=2 kworker/u12:2=1 screencap=1
+1.490408156664E9 start processing 1490408156
+1.490408156669E9 5ms| 93 com.att.arocollector=25 com.whatsapp=25 top=23 /sbin/adbd=8 /system/bin/surfaceflinger=4 ksoftirqd/2=2 system_server=2 rcu_preempt=2
+1.49040815667E9 start processing 1490408151
+1.490408156674E9 4ms| 98 com.att.arocollector=23 top=18 com.whatsapp=16 /system/bin/surfaceflinger=3 kswapd0=1 mdss_fb0=1 kworker/1:1=1 kworker/0:3=1
+1.490408161652E9 cpu file processing started
+1.490408161656E9 start processing killcpumon.sh
+1.490408161658E9 2ms| 
+1.490408161659E9 start processing 1490408158
+1.490408161665E9 6ms| 70 com.att.arocollector=31 top=24 com.whatsapp=12 /system/bin/surfaceflinger=4 /system/bin/perfd=2
+1.490408161666E9 start processing 1490408160
+1.490408161672E9 6ms| 97 com.att.arocollector=33 top=21 com.whatsapp=14 /sbin/adbd=11 system_server=11 com.microsoft.skydrive=7 /system/bin/surfaceflinger=2 mdss_fb0=2
+1.490408165403E9 cpu file processing started
+1.490408165407E9 start processing killcpumon.sh
+1.490408165408E9 1ms| 
+1.490408165408E9 start processing 1490408163
+1.490408165413E9 5ms| 84 top=28 com.att.arocollector=23 com.android.vending=17 kworker/u13:0=2 /system/bin/msm_irqbalance=2 mmcqd/0=2 kswapd0=2

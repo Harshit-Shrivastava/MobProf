@@ -1,0 +1,11 @@
+1.490409825E9 99 com.att.arocollector=10 kswapd0=9 top=8 system_server=8 com.facebook.orca=8 com.android.systemui=5 /sbin/adbd=5 /system/bin/surfaceflinger=5
+1.490409828E9 52 com.att.arocollector=19 top=13 com.facebook.orca=8 /sbin/adbd=6 kworker/0:2=1 kworker/u13:2=1 ksoftirqd/0=1 /system/bin/surfaceflinger=1
+1.49040983E9 49 com.att.arocollector=22 top=15 /sbin/adbd=9 kworker/u13:0=1 screencap=1
+1.490409832E9 68 com.att.arocollector=18 top=16 com.google.android.gms.persistent=9 system_server=5 /sbin/adbd=3 mmcqd/0=1 /system/bin/surfaceflinger=1 screencap=1
+1.490409834E9 94 com.facebook.orca=40 com.att.arocollector=14 top=11 /sbin/adbd=5 kswapd0=2 system_server=1 kworker/u12:4=1 mmcqd/0=1
+1.490409837E9 91 com.facebook.orca=27 com.att.arocollector=18 top=13 screencap=4 kswapd0=2 /system/bin/surfaceflinger=2 kworker/u12:1=1 system_server=1
+1.490409839E9 94 com.facebook.orca=37 com.att.arocollector=11 top=10 kswapd0=3 /system/bin/surfaceflinger=2
+1.490409841E9 53 com.att.arocollector=20 top=16 /sbin/adbd=8 kworker/u13:0=1 screencap=1
+1.490409843E9 68 com.att.arocollector=18 top=14 com.facebook.orca=6 com.google.android.apps.photos=4 system_server=3 /system/bin/surfaceflinger=3 /sbin/adbd=1 com.whatsapp=1
+1.490409846E9 51 com.att.arocollector=18 top=16 /sbin/adbd=8
+1.490409848E9 48 com.att.arocollector=21 top=16 /sbin/adbd=8 system_server=1 com.android.phone=1 screencap=1

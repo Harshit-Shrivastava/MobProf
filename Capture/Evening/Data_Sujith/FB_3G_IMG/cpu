@@ -1,0 +1,13 @@
+1.490409745E9 96 com.att.arocollector=7 top=6 com.facebook.orca=4 kswapd0=3 system_server=3 /sbin/adbd=2 /system/bin/surfaceflinger=2 mmcqd/0=1
+1.490409748E9 67 com.att.arocollector=9 top=7 com.microsoft.office.onenote=4 com.google.android.apps.docs=2 /system/bin/thermal-engine=2 kswapd0=2 mmcqd/0=1 /sbin/adbd=1
+1.49040975E9 79 com.att.arocollector=16 top=14 /system/bin/surfaceflinger=7 /sbin/adbd=5 kswapd0=5 com.android.systemui=5 media.codec=3 com.facebook.orca:videoplayer=3
+1.490409752E9 40 com.att.arocollector=14 top=11
+1.490409754E9 73 com.att.arocollector=15 top=12 com.google.android.talk=9 /sbin/adbd=6 system_server=4 /system/bin/surfaceflinger=3 com.facebook.orca=3 kswapd0=1
+1.490409759E9 58 com.att.arocollector=19 top=17 com.facebook.orca=6 irq/504-synapti=2 /system/bin/surfaceflinger=2 ksoftirqd/0=2 system_server=2
+1.490409761E9 94 com.att.arocollector=18 top=15 com.facebook.orca=8 /sbin/adbd=8 kswapd0=6 system_server=5 rcu_preempt=1 ksoftirqd/2=1
+1.490409757E9 38 com.att.arocollector=16 top=14 msm-core:sampli=1
+1.490409763E9 96 com.att.arocollector=21 top=18 com.facebook.orca=16 kswapd0=5 system_server=3 rcu_preempt=1 kworker/u13:5=1 mmcqd/0=1
+1.490409766E9 97 com.facebook.orca=36 com.att.arocollector=22 top=20 kworker/u12:6=2 mdss_fb0=2 /system/bin/surfaceflinger=2 system_server=2
+1.490409768E9 78 com.att.arocollector=29 top=27 /sbin/adbd=13 com.android.defcontainer=5 com.whatsapp=2
+1.49040977E9 64 com.att.arocollector=28 top=23
+1.490409773E9 94 com.att.arocollector=33 top=27 app_process=25 kworker/u13:2=2 /sbin/adbd=2 rcu_preempt=2

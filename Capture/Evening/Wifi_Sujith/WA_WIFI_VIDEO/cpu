@@ -1,0 +1,28 @@
+1.490408389E9 98 system_server=16 com.att.arocollector=13 top=7 /system/bin/surfaceflinger=6 android.process.acore=6 /sbin/adbd=4 com.whatsapp=4 com.android.systemui=4
+1.490408391E9 51 com.att.arocollector=22 top=16 /sbin/adbd=8 nanohub=2 screencap=2 kswapd0=2 com.google.android.partnersetup=2 com.microsoft.office.onenote=2
+1.490408393E9 52 com.att.arocollector=21 top=21 /sbin/adbd=8 kworker/0:3=2 msm-core:sampli=2 screencap=2
+1.490408398E9 50 com.att.arocollector=20 top=16 /sbin/adbd=7 screencap=3 ksoftirqd/5=1
+1.4904084E9 47 com.att.arocollector=18 top=15 screencap=7 ksoftirqd/0=1 /system/bin/surfaceflinger=1 rcu_preempt=1 /sbin/adbd=1
+1.490408396E9 39 com.att.arocollector=20 top=13 /system/bin/sdcard=1
+1.490408402E9 82 com.att.arocollector=27 top=25 /sbin/adbd=10 /system/bin/surfaceflinger=5 com.whatsapp=5 kworker/u12:3=2
+1.490408404E9 56 com.att.arocollector=31 top=24 kworker/u12:2=2 cfinteractive=2
+1.490408407E9 71 com.att.arocollector=36 top=26 /sbin/adbd=10 screencap=5
+1.490408409E9 95 com.att.arocollector=27 top=20 media.codec=10 /system/bin/surfaceflinger=6 system_server=2 kworker/u12:3=2 system=2 media.extractor=2
+1.490408411E9 75 com.att.arocollector=30 top=22 /sbin/adbd=10 system_server=5 com.whatsapp=2 screencap=2
+1.490408414E9 88 top=26 com.att.arocollector=26 com.whatsapp=14 media.extractor=7 /system/bin/surfaceflinger=4 system_server=4 /system/bin/mediaserver=4 kworker/u12:3=2
+1.490408416E9 70 com.att.arocollector=29 top=24 /sbin/adbd=10 screencap=2
+1.490408418E9 95 com.whatsapp=32 com.att.arocollector=26 top=22 /sbin/adbd=8 system_server=4 /system/bin/surfaceflinger=4 com.android.systemui=2 spi7=2
+1.490408423E9 85 com.att.arocollector=25 top=18 com.whatsapp=11 /sbin/adbd=3 system_server=1 kworker/u13:2=1 mdss_fb0=1 mmcqd/0=1
+1.490408425E9 74 com.att.arocollector=33 top=28 /sbin/adbd=7 com.whatsapp=7 kworker/0:3=2 /system/bin/surfaceflinger=2
+1.49040842E9 97 media.codec=29 top=14 com.att.arocollector=11 nanohub=1 /system/bin/mediaserver=1
+1.490408427E9 95 com.att.arocollector=22 media.codec=20 top=20 system_server=6 /system/bin/surfaceflinger=4 com.whatsapp=4 /system/bin/mediaserver=4 hwrng=2
+1.49040843E9 97 top=20 com.att.arocollector=20 com.microsoft.skydrive=10 system_server=8 com.whatsapp=8 /sbin/adbd=6 com.android.systemui=2 /system/bin/surfaceflinger=2
+1.490408432E9 97 com.att.arocollector=14 top=11 com.whatsapp=8 /sbin/adbd=4 media.extractor=2 media.codec=2 system_server=2 /system/bin/lmkd=1
+1.490408434E9 54 com.att.arocollector=28 top=21 irq/605-nanohub=2 kworker/0:3=2 msm-core:sampli=2 irq/215-fc38800=2 com.whatsapp=2
+1.490408437E9 84 com.att.arocollector=25 top=22 com.google.android.inputmethod.latin=9 /sbin/adbd=9 screencap=2
+1.490408439E9 92 com.att.arocollector=26 top=23 media.codec=16 /system/bin/mediaserver=4 /system/bin/surfaceflinger=2 nanohub=2
+1.490408441E9 95 com.att.arocollector=28 com.whatsapp=24 top=22 /sbin/adbd=4 /system/bin/surfaceflinger=2 kworker/u12:3=2
+1.490408444E9 94 com.whatsapp=22 top=18 com.att.arocollector=18 /sbin/adbd=5 /system/bin/surfaceflinger=3 mdss_fb0=1 screencap=1 kworker/0:3=1
+1.490408446E9 88 com.att.arocollector=28 top=21 /sbin/adbd=9 com.whatsapp=2
+1.490408448E9 53 com.att.arocollector=27 top=23
+1.49040845E9 74 com.att.arocollector=27 top=23 /sbin/adbd=6 kworker/1:1=2

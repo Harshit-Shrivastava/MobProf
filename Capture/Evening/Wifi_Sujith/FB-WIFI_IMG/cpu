@@ -1,0 +1,15 @@
+1.490408735E9 90 com.att.arocollector=26 system_server=23 top=17 com.facebook.orca=6 /sbin/adbd=6 com.viber.voip=4 /system/bin/surfaceflinger=4 kswapd0=4
+1.490408737E9 57 com.att.arocollector=14 top=12 /sbin/adbd=7 screencap=3 /system/bin/thermal-engine=1 rcu_preempt=1 kswapd0=1 msm-core:sampli=1
+1.490408739E9 82 kswapd0=10 com.att.arocollector=10 top=6 /system/bin/surfaceflinger=3 com.android.systemui=3 com.facebook.orca:videoplayer=3 /sbin/adbd=3 com.facebook.orca=3
+1.490408744E9 42 com.att.arocollector=23 top=21 /sbin/adbd=7 screencap=4 /system/bin/thermal-engine=2
+1.490408746E9 40 com.att.arocollector=19 top=17
+1.490408742E9 51 com.att.arocollector=26 top=17 /sbin/adbd=9 /system/bin/sdcard=1 /system/bin/thermal-engine=1 screencap=1
+1.490408748E9 60 com.att.arocollector=16 top=16 /sbin/adbd=6 com.facebook.orca=4 /system/bin/surfaceflinger=4
+1.490408751E9 68 com.att.arocollector=20 top=16 com.facebook.orca=16 /sbin/adbd=6 kworker/u12:3=2 system_server=2 kworker/2:1=2 screencap=2
+1.490408753E9 55 com.att.arocollector=32 top=23 irq/215-fc38800=2
+1.490408755E9 97 com.facebook.orca=53 com.att.arocollector=24 top=18 /sbin/adbd=10 system_server=8 kswapd0=4 /system/bin/surfaceflinger=2 screencap=1
+1.490408758E9 78 com.att.arocollector=28 top=23 /sbin/adbd=7 kworker/1:1=2 kworker/u12:3=2 kworker/u13:0=2
+1.49040876E9 95 com.att.arocollector=30 top=25 com.facebook.orca=12 /system/bin/surfaceflinger=7 screencap=7 /sbin/adbd=5
+1.490408762E9 75 com.att.arocollector=24 top=24 /sbin/adbd=9 ksoftirqd/2=2
+1.490408764E9 82 com.att.arocollector=31 top=26 /sbin/adbd=7 /system/bin/surfaceflinger=2 irq/215-fc38800=2 screencap=2
+1.490408767E9 90 com.att.arocollector=34 top=26 app_process=21 mmcqd/0=2 kworker/2:1=2 jbd2/dm-2-8=2 com.microsoft.skydrive=2
