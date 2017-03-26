@@ -1,0 +1,26 @@
+Resources
+
+[Conferences]
+1. https://www.sigmobile.org/mobisys/
+2. https://www.sigmobile.org/mobicom/
+3. http://www.hotmobile.org/main/
+4. http://sensys.acm.org/
+5. http://ubicomp.org
+6. http://www.sigcomm.org/
+7. http://www.sigcomm.org/events/conext-conference
+8. https://chi2017.acm.org/
+
+[Research Papers]
+1. Profiling Resource Usage for Mobile Applications: A Cross-layer Approach (recommended)
+2. Smartphone Background Activities in the Wild: Origin, Energy Drain, and Optimization (recommended)
+3. Smartphone Energy Drain in the Wild: Analysis and Implications
+4. Empowering Developers to Estimate App Energy Consumption
+5. Vivisecting WhatsApp through Large-Scale Measurements in Mobile Networks (recommended)
+6. Vivisecting WhatsApp in Cellular Networks: Servers, Flows, and Quality of Experience (recommended)
+7. DNS to the Rescue: Discerning Content and Services in a Tangled Web
+8. HTTPTag: A Flexible On-line HTTP Classification System for Operational 3G Networks
+9. Online Social Networks Anatomy: on the Analysis of Facebook and WhatsApp in Cellular Networks
+10. Assessing Network Energy Consumption of Mobile Applications
+
+[Guides]
+1. AT&T Entertainment Experience Suite Video Optimizer 1.0 Testing Guide
