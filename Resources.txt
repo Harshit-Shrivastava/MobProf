@@ -22,5 +22,12 @@ Resources
 9. Online Social Networks Anatomy: on the Analysis of Facebook and WhatsApp in Cellular Networks
 10. Assessing Network Energy Consumption of Mobile Applications
 
+[White Papers]
+1. Power Performance White Paper - Qualcomm Developer Network (https://developer.qualcomm.com/qfile/27292/trepn-whitepaper-apps-power.pdf)
+
+[Articles]
+1. Mobile Apps and Power Consumption- Basics, Part 1 (https://developer.qualcomm.com/blog/mobile-apps-and-power-consumption-basics-part-1)
+2. Mobile Apps and Power Consumption- Basics, Part 2 ()
+
 [Guides]
 1. AT&T Entertainment Experience Suite Video Optimizer 1.0 Testing Guide
