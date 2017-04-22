@@ -1,0 +1,38 @@
+1.492888819504E9 cpu file processing started
+1.492888819506E9 start processing 1492888815
+1.492888819514E9 8ms| 68 com.att.arocollector=10 com.google.android.apps.docs=4 com.whatsapp=1
+1.492888824503E9 cpu file processing started
+1.492888824506E9 start processing 1492888820
+1.492888824512E9 6ms| 82 com.att.arocollector=27 com.application.zomato=15 com.google.android.gms.persistent=2 net.one97.paytm=2 com.olacabs.customer=1
+1.492888829504E9 cpu file processing started
+1.492888829508E9 start processing 1492888825
+1.492888829541E9 31ms| 62 com.att.arocollector=34
+1.492888834503E9 cpu file processing started
+1.492888834505E9 start processing 1492888831
+1.492888834511E9 6ms| 68 com.att.arocollector=42
+1.492888839503E9 cpu file processing started
+1.492888839505E9 start processing 1492888836
+1.492888839509E9 4ms| 60 com.att.arocollector=37
+1.492888844503E9 cpu file processing started
+1.492888844506E9 start processing 1492888841
+1.492888844507E9 1ms| 
+1.492888849503E9 cpu file processing started
+1.492888849507E9 start processing 1492888841
+1.492888849513E9 4ms| 65 com.att.arocollector=40 top=1
+1.492888849514E9 start processing 1492888846
+1.492888849515E9 1ms| 
+1.492888854503E9 cpu file processing started
+1.492888854505E9 start processing 1492888851
+1.492888854507E9 1ms| 
+1.492888854508E9 start processing 1492888846
+1.492888854513E9 5ms| 61 com.att.arocollector=37 com.whatsapp=1
+1.492888859503E9 cpu file processing started
+1.492888859505E9 start processing 1492888851
+1.492888859508E9 3ms| 62 com.att.arocollector=37 com.whatsapp=2
+1.492888859509E9 start processing 1492888857
+1.49288885951E9 1ms| 
+1.492888863516E9 cpu file processing started
+1.492888863518E9 start processing 1492888862
+1.492888863519E9 1ms| 
+1.492888863519E9 start processing 1492888857
+1.492888863522E9 3ms| 71 com.att.arocollector=40
