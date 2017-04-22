@@ -1,0 +1,47 @@
+1.492889429E9 92 com.att.arocollector=19 system_server=9 /sbin/adbd=6 com.android.systemui=6 android.process.acore=5 com.facebook.orca=5 /system/bin/surfaceflinger=5 top=3
+1.492889432E9 50 com.att.arocollector=19 /sbin/adbd=4 top=3 screencap=2 com.google.android.inputmethod.latin=2
+1.492889434E9 34 com.att.arocollector=19 top=2 /sbin/adbd=1 /system/bin/surfaceflinger=1
+1.492889436E9 39 com.att.arocollector=20 /sbin/adbd=7 top=3 screencap=2 system_server=1
+1.492889439E9 30 com.att.arocollector=21 top=4
+1.492889441E9 38 com.att.arocollector=20 /sbin/adbd=9 top=3 screencap=2 com.whatsapp=1
+1.492889444E9 41 com.att.arocollector=20 system_server=5 top=4 com.android.vending=3 /sbin/adbd=1 com.whatsapp=1
+1.492889446E9 39 com.att.arocollector=21 /sbin/adbd=7 top=3 screencap=2
+1.492889449E9 30 com.att.arocollector=22 top=4 /sbin/adbd=2
+1.492889451E9 38 com.att.arocollector=19 /sbin/adbd=6 top=3
+1.492889454E9 40 com.att.arocollector=20 /sbin/adbd=9 top=3 screencap=2
+1.492889456E9 31 com.att.arocollector=20 top=3
+1.492889459E9 38 com.att.arocollector=23 /sbin/adbd=6 top=4
+1.492889461E9 41 com.att.arocollector=20 /sbin/adbd=8 top=3 screencap=2 /system/bin/surfaceflinger=1
+1.492889463E9 40 com.att.arocollector=20 /sbin/adbd=6 screencap=4 top=3 /system/bin/surfaceflinger=1
+1.492889466E9 31 com.att.arocollector=23 top=3 /system/bin/thermal-engine=1 /system/bin/surfaceflinger=1 kworker/u12:17=1
+1.492889468E9 36 com.att.arocollector=20 /sbin/adbd=5 top=3
+1.492889473E9 38 com.att.arocollector=20 /sbin/adbd=5 top=3
+1.492889471E9 40 com.att.arocollector=20 /sbin/adbd=8 top=3 screencap=2 /system/bin/thermal-engine=1 /system/bin/msm_irqbalance=1
+1.492889478E9 37 com.att.arocollector=20 /sbin/adbd=8 top=4 screencap=2
+1.492889476E9 36 com.att.arocollector=21 system_server=4 top=4 /sbin/adbd=2
+1.492889483E9 35 com.att.arocollector=21 top=3 /sbin/adbd=2
+1.492889481E9 41 com.att.arocollector=19 top=3 /sbin/adbd=1
+1.492889488E9 35 com.att.arocollector=20 top=4 com.whatsapp=1 /sbin/adbd=1
+1.492889486E9 39 com.att.arocollector=21 /sbin/adbd=9 top=4 screencap=2 /system/bin/thermal-engine=1
+1.492889493E9 40 com.att.arocollector=20 /sbin/adbd=6 top=3 screencap=2 /system/bin/surfaceflinger=1
+1.492889491E9 38 com.att.arocollector=21 /sbin/adbd=5 top=3
+1.492889498E9 40 com.att.arocollector=21 /sbin/adbd=7 top=5
+1.492889496E9 34 com.att.arocollector=20 top=3
+1.492889503E9 34 com.att.arocollector=19 top=4 /sbin/adbd=1
+1.4928895E9 38 com.att.arocollector=21 /sbin/adbd=6 top=5 screencap=2
+1.492889508E9 37 com.att.arocollector=20 /sbin/adbd=8 top=5 screencap=1
+1.492889506E9 36 com.att.arocollector=20 top=4 /sbin/adbd=4
+1.492889513E9 31 com.att.arocollector=20 top=4
+1.492889511E9 44 com.att.arocollector=20 /sbin/adbd=5 top=4 screencap=3 system_server=1
+1.492889518E9 36 com.att.arocollector=20 /sbin/adbd=6 top=4
+1.492889516E9 32 com.att.arocollector=19 top=4 /sbin/adbd=2
+1.492889523E9 37 com.att.arocollector=19 top=4 /sbin/adbd=2
+1.492889521E9 41 com.att.arocollector=20 /sbin/adbd=7 top=5 screencap=2
+1.492889528E9 37 com.att.arocollector=20 /sbin/adbd=7 top=5
+1.492889526E9 36 com.att.arocollector=19 top=4 /sbin/adbd=1
+1.492889534E9 63 com.att.arocollector=20 top=5 system_server=4 kswapd0=3 /system/bin/netd=2 com.android.providers.calendar=1 /sbin/adbd=1 com.microsoft.cortana=1
+1.492889531E9 57 com.att.arocollector=21 top=5 /sbin/adbd=3 com.amazon.mShop.android.shopping=3 mmcqd/0=2 kswapd0=2 kworker/u13:1=1
+1.492889536E9 34 com.att.arocollector=16 top=4
+1.492889539E9 40 com.att.arocollector=21 /sbin/adbd=5 top=4 com.google.android.calendar=1 system_server=1
+1.492889541E9 36 com.att.arocollector=19 /sbin/adbd=7 top=4
+1.492889544E9 37 com.att.arocollector=20 /sbin/adbd=7 top=5 screencap=2

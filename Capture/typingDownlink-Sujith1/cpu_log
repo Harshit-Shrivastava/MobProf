@@ -1,0 +1,122 @@
+1.492889016364E9 cpu file processing started
+1.492889016367E9 start processing killcpumon.sh
+1.492889016369E9 2ms| 
+1.49288901637E9 start processing 1492889014
+1.492889016375E9 5ms| 91 com.att.arocollector=20 system_server=11 /sbin/adbd=5 com.whatsapp=4 /system/bin/surfaceflinger=4 android.process.acore=4 top=3 com.facebook.katana=2
+1.492889021364E9 cpu file processing started
+1.492889021371E9 start processing killcpumon.sh
+1.492889021374E9 3ms| 
+1.492889021375E9 start processing 1492889017
+1.492889021383E9 8ms| 32 com.att.arocollector=19 top=3 system_server=2
+1.492889021385E9 start processing 1492889019
+1.492889021392E9 7ms| 36 com.att.arocollector=21 /sbin/adbd=5 top=3
+1.492889026364E9 cpu file processing started
+1.492889026367E9 start processing killcpumon.sh
+1.49288902637E9 3ms| 
+1.492889026371E9 start processing 1492889022
+1.492889026375E9 4ms| 39 com.att.arocollector=19 /sbin/adbd=7 top=3 screencap=1
+1.492889026377E9 start processing 1492889024
+1.492889026382E9 5ms| 33 com.att.arocollector=20 top=4 /sbin/adbd=1 /system/bin/surfaceflinger=1
+1.492889031364E9 cpu file processing started
+1.492889031366E9 start processing killcpumon.sh
+1.492889031368E9 1ms| 
+1.492889031368E9 start processing 1492889027
+1.492889031372E9 4ms| 37 com.att.arocollector=20 /sbin/adbd=9 top=3
+1.492889031373E9 start processing 1492889029
+1.492889031377E9 4ms| 40 com.att.arocollector=19 /sbin/adbd=7 top=3 screencap=2
+1.492889036365E9 cpu file processing started
+1.49288903637E9 start processing killcpumon.sh
+1.492889036373E9 2ms| 
+1.492889036373E9 start processing 1492889032
+1.49288903638E9 6ms| 31 com.att.arocollector=21 top=3
+1.492889036383E9 start processing 1492889034
+1.492889036392E9 9ms| 37 com.att.arocollector=19 /sbin/adbd=8 top=4 screencap=2 com.whatsapp=1
+1.492889041364E9 cpu file processing started
+1.492889041366E9 start processing killcpumon.sh
+1.492889041367E9 1ms| 
+1.492889041367E9 start processing 1492889037
+1.49288904137E9 3ms| 32 com.att.arocollector=21 top=4 com.whatsapp=1
+1.492889041371E9 start processing 1492889039
+1.492889041374E9 3ms| 39 com.att.arocollector=21 /sbin/adbd=7 top=4
+1.492889046364E9 cpu file processing started
+1.492889046371E9 start processing killcpumon.sh
+1.492889046374E9 2ms| 
+1.492889046375E9 start processing 1492889042
+1.492889046384E9 9ms| 39 com.att.arocollector=21 /sbin/adbd=9 top=3 screencap=2
+1.492889046386E9 start processing 1492889044
+1.492889046395E9 8ms| 44 com.att.arocollector=20 /sbin/adbd=5 top=3 /system/bin/surfaceflinger=1 com.android.phone=1
+1.492889051364E9 cpu file processing started
+1.492889051372E9 start processing killcpumon.sh
+1.492889051374E9 2ms| 
+1.492889051375E9 start processing 1492889046
+1.492889051382E9 7ms| 33 com.att.arocollector=21 top=3 /sbin/adbd=2 /system/bin/thermal-engine=1
+1.492889051384E9 start processing 1492889049
+1.49288905139E9 6ms| 39 com.att.arocollector=21 /sbin/adbd=9 top=3 screencap=2
+1.492889056364E9 cpu file processing started
+1.49288905637E9 start processing killcpumon.sh
+1.492889056372E9 2ms| 
+1.492889056373E9 start processing 1492889051
+1.492889056382E9 9ms| 30 com.att.arocollector=22 top=4
+1.492889056383E9 start processing 1492889054
+1.492889056389E9 5ms| 36 com.att.arocollector=22 /sbin/adbd=6 top=4
+1.492889061364E9 cpu file processing started
+1.492889061367E9 start processing killcpumon.sh
+1.492889061368E9 1ms| 
+1.49288906137E9 start processing 1492889056
+1.492889061373E9 3ms| 40 com.att.arocollector=20 /sbin/adbd=9 top=3 screencap=2
+1.492889061375E9 start processing 1492889059
+1.492889061379E9 4ms| 32 com.att.arocollector=22 top=5
+1.492889066365E9 cpu file processing started
+1.492889066368E9 start processing killcpumon.sh
+1.49288906637E9 1ms| 
+1.49288906637E9 start processing 1492889061
+1.492889066374E9 4ms| 34 com.att.arocollector=19 /sbin/adbd=6 top=4 screencap=1
+1.492889066376E9 start processing 1492889064
+1.49288906638E9 4ms| 33 com.att.arocollector=19 top=4 /sbin/adbd=2
+1.492889071364E9 cpu file processing started
+1.492889071366E9 start processing killcpumon.sh
+1.492889071368E9 1ms| 
+1.492889071369E9 start processing 1492889066
+1.492889071375E9 6ms| 35 com.att.arocollector=20 /sbin/adbd=5 top=4
+1.492889071378E9 start processing 1492889069
+1.492889071386E9 5ms| 42 com.att.arocollector=18 /sbin/adbd=6 top=4 screencap=1
+1.492889076365E9 cpu file processing started
+1.492889076368E9 start processing killcpumon.sh
+1.49288907637E9 2ms| 
+1.49288907637E9 start processing 1492889072
+1.492889076375E9 5ms| 33 com.att.arocollector=19 top=4 /sbin/adbd=2
+1.492889076376E9 start processing 1492889074
+1.49288907638E9 3ms| 30 com.att.arocollector=19 top=5 /sbin/adbd=1
+1.492889081365E9 cpu file processing started
+1.492889081367E9 start processing killcpumon.sh
+1.492889081369E9 2ms| 
+1.492889081369E9 start processing 1492889077
+1.492889081376E9 6ms| 36 com.att.arocollector=19 /sbin/adbd=6 top=5
+1.492889081377E9 start processing 1492889079
+1.492889081381E9 4ms| 37 com.att.arocollector=19 /sbin/adbd=5 top=4 screencap=3
+1.492889086365E9 cpu file processing started
+1.492889086367E9 start processing killcpumon.sh
+1.492889086368E9 1ms| 
+1.492889086369E9 start processing 1492889082
+1.492889086372E9 3ms| 32 com.att.arocollector=20 top=4 /sbin/adbd=1
+1.492889086373E9 start processing 1492889084
+1.492889086376E9 3ms| 33 com.att.arocollector=20 top=5 /sbin/adbd=1
+1.492889091364E9 cpu file processing started
+1.492889091367E9 start processing killcpumon.sh
+1.492889091368E9 1ms| 
+1.492889091369E9 start processing 1492889087
+1.492889091372E9 3ms| 35 com.att.arocollector=20 /sbin/adbd=7 top=4
+1.492889091374E9 start processing 1492889089
+1.492889091378E9 3ms| 37 com.att.arocollector=18 /sbin/adbd=7 top=4 screencap=1
+1.492889096364E9 cpu file processing started
+1.492889096368E9 start processing killcpumon.sh
+1.49288909637E9 1ms| 
+1.49288909637E9 start processing 1492889092
+1.492889096373E9 2ms| 34 com.att.arocollector=20 top=5 /sbin/adbd=2
+1.492889096374E9 start processing 1492889094
+1.492889096377E9 2ms| 31 com.att.arocollector=20 top=5
+1.492889097486E9 cpu file processing started
+1.492889097489E9 start processing killcpumon.sh
+1.49288909749E9 1ms| 
+1.49288909749E9 start processing 1492889097
+1.49288909749E9 0ms| 
