@@ -1,0 +1,262 @@
+1.492891768183E9 cpu file processing started
+1.492891768186E9 start processing killcpumon.sh
+1.492891768188E9 2ms| 
+1.492891768188E9 start processing 1492891766
+1.492891768196E9 7ms| 89 com.att.arocollector=21 /sbin/adbd=6 system_server=6 android.process.acore=5 /system/bin/surfaceflinger=4 top=4 com.whatsapp=4 com.android.systemui=3
+1.492891773184E9 cpu file processing started
+1.492891773192E9 start processing killcpumon.sh
+1.492891773195E9 2ms| 
+1.492891773196E9 start processing 1492891769
+1.492891773208E9 12ms| 36 com.att.arocollector=19 top=2 com.google.android.apps.docs=2 system_server=1
+1.49289177321E9 start processing 1492891771
+1.492891773216E9 6ms| 42 com.att.arocollector=21 /sbin/adbd=8 top=3 screencap=1 com.google.android.gms=1
+1.492891778184E9 cpu file processing started
+1.492891778186E9 start processing killcpumon.sh
+1.492891778187E9 1ms| 
+1.492891778188E9 start processing 1492891773
+1.49289177819E9 2ms| 34 com.att.arocollector=22 top=3 /system/bin/surfaceflinger=1
+1.492891778191E9 start processing 1492891776
+1.492891778195E9 4ms| 40 com.att.arocollector=21 /sbin/adbd=6 top=3
+1.492891783184E9 cpu file processing started
+1.492891783186E9 start processing killcpumon.sh
+1.492891783187E9 1ms| 
+1.492891783188E9 start processing 1492891778
+1.492891783193E9 5ms| 36 com.att.arocollector=20 /sbin/adbd=4 top=3 /system/bin/surfaceflinger=1
+1.492891783194E9 start processing 1492891781
+1.492891783197E9 3ms| 34 com.att.arocollector=24 top=3
+1.492891788183E9 cpu file processing started
+1.492891788185E9 start processing killcpumon.sh
+1.492891788186E9 1ms| 
+1.492891788187E9 start processing 1492891783
+1.49289178819E9 3ms| 39 com.att.arocollector=22 /sbin/adbd=8 top=3 screencap=2
+1.492891788192E9 start processing 1492891786
+1.492891788195E9 3ms| 31 com.att.arocollector=21 top=3 /sbin/adbd=1
+1.492891793183E9 cpu file processing started
+1.492891793191E9 start processing killcpumon.sh
+1.492891793192E9 1ms| 
+1.492891793193E9 start processing 1492891788
+1.492891793199E9 6ms| 41 com.att.arocollector=22 /sbin/adbd=8 top=3 screencap=2
+1.4928917932E9 start processing 1492891791
+1.492891793205E9 5ms| 37 com.att.arocollector=21 /sbin/adbd=3 top=3
+1.492891798183E9 cpu file processing started
+1.492891798185E9 start processing killcpumon.sh
+1.492891798187E9 1ms| 
+1.492891798188E9 start processing 1492891793
+1.492891798192E9 4ms| 40 com.att.arocollector=21 /sbin/adbd=6 top=3 com.whatsapp=1
+1.492891798193E9 start processing 1492891795
+1.492891798199E9 6ms| 39 com.att.arocollector=22 /sbin/adbd=7 top=3 screencap=2 com.whatsapp=1
+1.492891803184E9 cpu file processing started
+1.492891803188E9 start processing killcpumon.sh
+1.492891803191E9 1ms| 
+1.492891803191E9 start processing 1492891798
+1.492891803198E9 6ms| 36 com.att.arocollector=22 top=3 /sbin/adbd=1
+1.4928918032E9 start processing 1492891800
+1.492891803205E9 5ms| 40 com.att.arocollector=22 /sbin/adbd=6 top=3
+1.492891808183E9 cpu file processing started
+1.492891808187E9 start processing killcpumon.sh
+1.492891808189E9 1ms| 
+1.492891808189E9 start processing 1492891803
+1.492891808193E9 4ms| 42 com.att.arocollector=20 /sbin/adbd=7 top=3 screencap=1
+1.492891808194E9 start processing 1492891805
+1.492891808198E9 3ms| 32 com.att.arocollector=21 top=3
+1.492891808199E9 start processing 1492891808
+1.4928918082E9 1ms| 
+1.492891813183E9 cpu file processing started
+1.492891813187E9 start processing killcpumon.sh
+1.492891813188E9 1ms| 
+1.492891813189E9 start processing 1492891810
+1.492891813191E9 2ms| 35 com.att.arocollector=19 /sbin/adbd=3 top=3
+1.492891813192E9 start processing 1492891813
+1.492891813193E9 0ms| 
+1.492891813194E9 start processing 1492891808
+1.492891813198E9 4ms| 41 com.att.arocollector=21 /sbin/adbd=8 top=3 screencap=2
+1.492891818183E9 cpu file processing started
+1.492891818186E9 start processing killcpumon.sh
+1.492891818188E9 1ms| 
+1.49289181819E9 start processing 1492891815
+1.492891818195E9 5ms| 41 com.att.arocollector=19 /sbin/adbd=6 top=2 screencap=1
+1.492891818197E9 start processing 1492891813
+1.492891818201E9 4ms| 39 com.att.arocollector=21 /sbin/adbd=4 top=4 /system/bin/thermal-engine=1
+1.492891818203E9 start processing 1492891818
+1.492891818204E9 1ms| 
+1.492891823183E9 cpu file processing started
+1.492891823196E9 start processing killcpumon.sh
+1.492891823203E9 6ms| 
+1.492891823204E9 start processing 1492891820
+1.492891823208E9 4ms| 40 com.att.arocollector=19 /sbin/adbd=7 top=4 screencap=3
+1.492891823209E9 start processing 1492891822
+1.49289182321E9 1ms| 
+1.49289182321E9 start processing 1492891818
+1.492891823214E9 3ms| 37 com.att.arocollector=22 /sbin/adbd=5 top=4
+1.492891828183E9 cpu file processing started
+1.492891828187E9 start processing killcpumon.sh
+1.492891828189E9 1ms| 
+1.492891828191E9 start processing 1492891825
+1.492891828204E9 13ms| 40 com.att.arocollector=20 /sbin/adbd=8 top=5 screencap=2
+1.492891828207E9 start processing 1492891822
+1.492891828217E9 9ms| 36 com.att.arocollector=22 top=5 /sbin/adbd=3
+1.492891828218E9 start processing 1492891828
+1.49289182822E9 1ms| 
+1.492891833183E9 cpu file processing started
+1.492891833186E9 start processing killcpumon.sh
+1.492891833187E9 1ms| 
+1.492891833188E9 start processing 1492891830
+1.492891833192E9 4ms| 32 com.att.arocollector=21 top=4 /sbin/adbd=3
+1.492891833193E9 start processing 1492891833
+1.492891833194E9 1ms| 
+1.492891833194E9 start processing 1492891828
+1.492891833198E9 3ms| 36 com.att.arocollector=19 top=3
+1.492891838183E9 cpu file processing started
+1.492891838188E9 start processing killcpumon.sh
+1.492891838196E9 7ms| 
+1.492891838198E9 start processing 1492891835
+1.492891838204E9 6ms| 45 com.att.arocollector=19 top=4 /sbin/adbd=3 com.whatsapp=3
+1.492891838205E9 start processing 1492891833
+1.49289183821E9 5ms| 37 com.att.arocollector=19 /sbin/adbd=7 top=4 screencap=1
+1.492891838211E9 start processing 1492891838
+1.492891838214E9 3ms| 
+1.492891843183E9 cpu file processing started
+1.492891843188E9 start processing killcpumon.sh
+1.492891843192E9 2ms| 
+1.492891843192E9 start processing 1492891840
+1.492891843197E9 5ms| 38 com.att.arocollector=19 /sbin/adbd=7 top=4 screencap=1 com.whatsapp=1
+1.492891843198E9 start processing 1492891843
+1.492891843199E9 1ms| 
+1.492891843199E9 start processing 1492891838
+1.492891843203E9 4ms| 44 com.att.arocollector=22 top=5 com.whatsapp=2 /sbin/adbd=1
+1.492891848183E9 cpu file processing started
+1.492891848186E9 start processing killcpumon.sh
+1.492891848187E9 1ms| 
+1.492891848188E9 start processing 1492891845
+1.492891848191E9 3ms| 35 com.att.arocollector=19 /sbin/adbd=5 top=4
+1.492891848192E9 start processing 1492891843
+1.492891848196E9 3ms| 37 com.att.arocollector=19 top=4 /sbin/adbd=2 /system/bin/surfaceflinger=1
+1.492891853183E9 cpu file processing started
+1.492891853185E9 start processing killcpumon.sh
+1.492891853187E9 2ms| 
+1.492891853188E9 start processing 1492891848
+1.492891853192E9 4ms| 39 com.att.arocollector=20 /sbin/adbd=7 top=5 screencap=1
+1.492891853193E9 start processing 1492891850
+1.492891853198E9 5ms| 59 com.att.arocollector=20 system_server=8 com.google.android.apps.photos=6 top=4 /sbin/adbd=2 com.google.android.GoogleCamera=2 kswapd0=1 android.process.media=1
+1.492891858183E9 cpu file processing started
+1.492891858186E9 start processing killcpumon.sh
+1.492891858187E9 1ms| 
+1.492891858188E9 start processing 1492891853
+1.492891858192E9 4ms| 37 com.att.arocollector=20 top=5 /sbin/adbd=3
+1.492891858193E9 start processing 1492891855
+1.492891858198E9 4ms| 37 com.att.arocollector=19 /sbin/adbd=7 top=4
+1.492891863183E9 cpu file processing started
+1.492891863186E9 start processing killcpumon.sh
+1.492891863188E9 2ms| 
+1.49289186319E9 start processing 1492891858
+1.492891863197E9 7ms| 39 com.att.arocollector=19 /sbin/adbd=6 top=4 screencap=2
+1.492891863198E9 start processing 1492891860
+1.492891863201E9 3ms| 29 com.att.arocollector=19 top=5
+1.492891868183E9 cpu file processing started
+1.492891868187E9 start processing killcpumon.sh
+1.492891868189E9 1ms| 
+1.492891868189E9 start processing 1492891863
+1.492891868192E9 3ms| 34 com.att.arocollector=20 top=4 /sbin/adbd=4
+1.492891868192E9 start processing 1492891865
+1.492891868196E9 3ms| 44 com.att.arocollector=17 /sbin/adbd=7 top=4 com.whatsapp=3 screencap=1
+1.492891873183E9 cpu file processing started
+1.492891873186E9 start processing killcpumon.sh
+1.492891873188E9 2ms| 
+1.492891873189E9 start processing 1492891868
+1.492891873192E9 3ms| 32 com.att.arocollector=20 top=5 /sbin/adbd=1
+1.492891873193E9 start processing 1492891870
+1.492891873197E9 4ms| 64 com.att.arocollector=17 media.codec=6 /sbin/adbd=6 top=4 com.whatsapp=3 /system/bin/mediaserver=3 media.extractor=2 /system/bin/surfaceflinger=2
+1.492891878184E9 cpu file processing started
+1.492891878187E9 start processing killcpumon.sh
+1.492891878192E9 3ms| 
+1.492891878192E9 start processing 1492891873
+1.492891878197E9 5ms| 43 com.att.arocollector=20 /sbin/adbd=5 top=4 /system/bin/surfaceflinger=1
+1.4928918782E9 start processing 1492891875
+1.492891878205E9 4ms| 49 com.att.arocollector=20 com.whatsapp=7 top=5 /system/bin/surfaceflinger=3 com.android.systemui=2 /sbin/adbd=1 system_server=1
+1.492891883184E9 cpu file processing started
+1.492891883187E9 start processing killcpumon.sh
+1.492891883188E9 1ms| 
+1.492891883188E9 start processing 1492891878
+1.492891883192E9 4ms| 38 com.att.arocollector=20 /sbin/adbd=7 top=4 com.whatsapp=1 screencap=1
+1.492891883193E9 start processing 1492891881
+1.492891883201E9 8ms| 31 com.att.arocollector=20 top=4
+1.492891888183E9 cpu file processing started
+1.492891888186E9 start processing killcpumon.sh
+1.492891888188E9 2ms| 
+1.492891888189E9 start processing 1492891883
+1.492891888194E9 5ms| 68 com.att.arocollector=19 system_server=14 com.whatsapp=8 /sbin/adbd=5 top=5 com.android.phone=3 /system/bin/surfaceflinger=1 com.google.android.gms=1
+1.492891888197E9 start processing 1492891886
+1.492891888205E9 7ms| 49 com.att.arocollector=19 top=4 com.whatsapp=4 /system/bin/surfaceflinger=3 /sbin/adbd=2 system_server=1 com.android.systemui=1
+1.492891893183E9 cpu file processing started
+1.492891893186E9 start processing killcpumon.sh
+1.492891893187E9 1ms| 
+1.492891893188E9 start processing 1492891888
+1.492891893191E9 3ms| 49 com.att.arocollector=19 com.whatsapp=7 top=4 /sbin/adbd=3 /system/bin/surfaceflinger=1 system_server=1
+1.492891893192E9 start processing 1492891891
+1.492891893197E9 4ms| 37 com.att.arocollector=19 /sbin/adbd=8 top=4 screencap=1
+1.492891898183E9 cpu file processing started
+1.492891898186E9 start processing killcpumon.sh
+1.492891898188E9 1ms| 
+1.492891898188E9 start processing 1492891893
+1.492891898193E9 5ms| 66 com.whatsapp=18 com.att.arocollector=18 top=5 /system/bin/surfaceflinger=3 /sbin/adbd=2 system_server=2 kswapd0=1
+1.492891898195E9 start processing 1492891896
+1.492891898201E9 6ms| 94 system_server=16 com.att.arocollector=15 top=5 com.skype.raider=4 com.whatsapp=3 com.google.android.gm=2 /system/bin/netd=2 mmcqd/0=2
+1.492891903183E9 cpu file processing started
+1.492891903186E9 start processing killcpumon.sh
+1.492891903187E9 1ms| 
+1.492891903188E9 start processing 1492891898
+1.49289190319E9 2ms| 0
+1.492891903191E9 start processing 1492891901
+1.492891903195E9 4ms| 79 com.att.arocollector=31 com.skype.raider=17 com.whatsapp=7 top=7 /sbin/adbd=6 /system/bin/surfaceflinger=2
+1.492891908183E9 cpu file processing started
+1.492891908187E9 start processing killcpumon.sh
+1.492891908188E9 1ms| 
+1.492891908189E9 start processing 1492891904
+1.492891908192E9 3ms| 61 com.att.arocollector=30 /sbin/adbd=10 top=7 screencap=2 system_server=1 com.whatsapp=1
+1.492891908195E9 start processing 1492891906
+1.492891908199E9 3ms| 49 com.att.arocollector=30 top=8 com.whatsapp=5 /system/bin/surfaceflinger=2
+1.492891913183E9 cpu file processing started
+1.492891913186E9 start processing killcpumon.sh
+1.492891913187E9 1ms| 
+1.492891913187E9 start processing 1492891909
+1.492891913191E9 3ms| 52 com.att.arocollector=31 top=7 /sbin/adbd=7 com.whatsapp=1
+1.492891913192E9 start processing 1492891911
+1.492891913195E9 3ms| 55 com.att.arocollector=30 /sbin/adbd=9 top=7 screencap=2
+1.492891918183E9 cpu file processing started
+1.492891918187E9 start processing killcpumon.sh
+1.492891918189E9 1ms| 
+1.49289191819E9 start processing 1492891914
+1.492891918196E9 6ms| 50 com.att.arocollector=30 top=7 /sbin/adbd=2
+1.492891918197E9 start processing 1492891916
+1.492891918201E9 4ms| 55 com.att.arocollector=28 /sbin/adbd=9 top=6 com.whatsapp=1
+1.492891923184E9 cpu file processing started
+1.492891923187E9 start processing killcpumon.sh
+1.492891923189E9 2ms| 
+1.492891923189E9 start processing 1492891919
+1.492891923194E9 4ms| 51 com.att.arocollector=31 top=7 /sbin/adbd=4 system_server=1 /system/bin/surfaceflinger=1
+1.492891923195E9 start processing 1492891921
+1.492891923202E9 6ms| 53 com.att.arocollector=29 top=7 /sbin/adbd=4 com.whatsapp=1
+1.492891928183E9 cpu file processing started
+1.492891928185E9 start processing killcpumon.sh
+1.492891928187E9 2ms| 
+1.492891928188E9 start processing 1492891924
+1.492891928191E9 3ms| 62 com.att.arocollector=29 /sbin/adbd=12 top=7 screencap=2 com.whatsapp=2
+1.492891928192E9 start processing 1492891926
+1.492891928197E9 5ms| 53 com.att.arocollector=32 /sbin/adbd=7 top=6 system_server=1
+1.492891933184E9 cpu file processing started
+1.492891933186E9 start processing killcpumon.sh
+1.492891933187E9 1ms| 
+1.492891933188E9 start processing 1492891929
+1.492891933192E9 4ms| 48 com.att.arocollector=30 top=7 /sbin/adbd=1 system_server=1
+1.492891933193E9 start processing 1492891931
+1.492891933196E9 3ms| 59 com.att.arocollector=31 /sbin/adbd=10 top=7
+1.492891938183E9 cpu file processing started
+1.492891938185E9 start processing killcpumon.sh
+1.492891938186E9 1ms| 
+1.492891938188E9 start processing 1492891934
+1.492891938191E9 3ms| 53 com.att.arocollector=29 top=7 /sbin/adbd=4 /system/bin/surfaceflinger=1
+1.492891938192E9 start processing 1492891937
+1.492891938196E9 4ms| 80 com.att.arocollector=29 app_process=20 /sbin/adbd=8 top=7 com.whatsapp=1
+1.49289193822E9 cpu file processing started
+1.492891938223E9 start processing killcpumon.sh
+1.492891938224E9 1ms| 

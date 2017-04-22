@@ -1,0 +1,33 @@
+1.492889014E9 91 com.att.arocollector=20 system_server=11 /sbin/adbd=5 com.whatsapp=4 /system/bin/surfaceflinger=4 android.process.acore=4 top=3 com.facebook.katana=2
+1.492889017E9 32 com.att.arocollector=19 top=3 system_server=2
+1.492889019E9 36 com.att.arocollector=21 /sbin/adbd=5 top=3
+1.492889022E9 39 com.att.arocollector=19 /sbin/adbd=7 top=3 screencap=1
+1.492889024E9 33 com.att.arocollector=20 top=4 /sbin/adbd=1 /system/bin/surfaceflinger=1
+1.492889027E9 37 com.att.arocollector=20 /sbin/adbd=9 top=3
+1.492889029E9 40 com.att.arocollector=19 /sbin/adbd=7 top=3 screencap=2
+1.492889032E9 31 com.att.arocollector=21 top=3
+1.492889034E9 37 com.att.arocollector=19 /sbin/adbd=8 top=4 screencap=2 com.whatsapp=1
+1.492889037E9 32 com.att.arocollector=21 top=4 com.whatsapp=1
+1.492889039E9 39 com.att.arocollector=21 /sbin/adbd=7 top=4
+1.492889042E9 39 com.att.arocollector=21 /sbin/adbd=9 top=3 screencap=2
+1.492889044E9 44 com.att.arocollector=20 /sbin/adbd=5 top=3 /system/bin/surfaceflinger=1 com.android.phone=1
+1.492889046E9 33 com.att.arocollector=21 top=3 /sbin/adbd=2 /system/bin/thermal-engine=1
+1.492889049E9 39 com.att.arocollector=21 /sbin/adbd=9 top=3 screencap=2
+1.492889051E9 30 com.att.arocollector=22 top=4
+1.492889054E9 36 com.att.arocollector=22 /sbin/adbd=6 top=4
+1.492889056E9 40 com.att.arocollector=20 /sbin/adbd=9 top=3 screencap=2
+1.492889059E9 32 com.att.arocollector=22 top=5
+1.492889061E9 34 com.att.arocollector=19 /sbin/adbd=6 top=4 screencap=1
+1.492889064E9 33 com.att.arocollector=19 top=4 /sbin/adbd=2
+1.492889066E9 35 com.att.arocollector=20 /sbin/adbd=5 top=4
+1.492889069E9 42 com.att.arocollector=18 /sbin/adbd=6 top=4 screencap=1
+1.492889072E9 33 com.att.arocollector=19 top=4 /sbin/adbd=2
+1.492889074E9 30 com.att.arocollector=19 top=5 /sbin/adbd=1
+1.492889077E9 36 com.att.arocollector=19 /sbin/adbd=6 top=5
+1.492889079E9 37 com.att.arocollector=19 /sbin/adbd=5 top=4 screencap=3
+1.492889082E9 32 com.att.arocollector=20 top=4 /sbin/adbd=1
+1.492889084E9 33 com.att.arocollector=20 top=5 /sbin/adbd=1
+1.492889087E9 35 com.att.arocollector=20 /sbin/adbd=7 top=4
+1.492889089E9 37 com.att.arocollector=18 /sbin/adbd=7 top=4 screencap=1
+1.492889092E9 34 com.att.arocollector=20 top=5 /sbin/adbd=2
+1.492889094E9 31 com.att.arocollector=20 top=5
