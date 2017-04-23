@@ -1,0 +1,36 @@
+1.492989746E9 95 com.att.arocollector=15 /system/bin/surfaceflinger=5 /sbin/adbd=5 system_server=5 com.google.android.gms.persistent=4 com.facebook.orca=3 top=3 com.facebook.katana=2
+1.492989749E9 66 com.att.arocollector=19 system_server=7 /sbin/adbd=6 top=3 com.google.android.apps.docs=1 com.facebook.orca=1
+1.492989752E9 38 com.att.arocollector=21 /sbin/adbd=6 top=3 screencap=3 /system/bin/surfaceflinger=1
+1.492989754E9 41 com.att.arocollector=20 /sbin/adbd=9 top=4 screencap=2 /system/bin/surfaceflinger=1 android.process.acore=1
+1.492989757E9 40 com.att.arocollector=19 /sbin/adbd=9 top=3 screencap=2 com.facebook.orca=1 /system/bin/surfaceflinger=1
+1.492989759E9 53 com.att.arocollector=19 system_server=12 /sbin/adbd=9 com.android.vending=3 top=3 screencap=2 com.facebook.orca=1 /system/bin/thermal-engine=1
+1.492989761E9 40 com.att.arocollector=20 /sbin/adbd=10 top=4 screencap=2
+1.492989764E9 74 com.att.arocollector=21 com.facebook.orca=12 /sbin/adbd=8 top=4 media.codec=2 /system/bin/mediaserver=2 mmcqd/0=2 screencap=2
+1.492989766E9 50 com.att.arocollector=21 /sbin/adbd=9 /system/bin/surfaceflinger=4 com.facebook.orca=4 top=4 screencap=2 /system/bin/audioserver=1
+1.492989769E9 49 com.att.arocollector=20 /sbin/adbd=8 com.facebook.orca=5 top=4 /system/bin/surfaceflinger=4 screencap=2
+1.492989771E9 49 com.att.arocollector=20 /sbin/adbd=8 /system/bin/surfaceflinger=5 top=4 com.facebook.orca=4 screencap=2
+1.492989774E9 74 com.att.arocollector=33 /sbin/adbd=11 /system/bin/surfaceflinger=7 com.facebook.orca=7 top=7 screencap=5
+1.492989776E9 71 com.att.arocollector=30 /system/bin/surfaceflinger=7 /sbin/adbd=7 com.facebook.orca=7 top=7
+1.492989779E9 71 com.att.arocollector=32 /system/bin/surfaceflinger=7 top=7 com.facebook.orca=7 /sbin/adbd=4 system_server=2
+1.492989781E9 59 com.att.arocollector=31 com.facebook.orca=8 /system/bin/surfaceflinger=8 top=8 /sbin/adbd=1
+1.492989784E9 69 com.att.arocollector=30 /sbin/adbd=11 com.facebook.orca=7 top=7 /system/bin/surfaceflinger=6
+1.492989787E9 81 com.att.arocollector=30 /sbin/adbd=11 top=7 com.facebook.orca=6 /system/bin/surfaceflinger=5 com.google.android.gms.persistent=4 screencap=2
+1.492989789E9 69 com.att.arocollector=30 top=8 com.facebook.orca=7 /system/bin/surfaceflinger=7 /sbin/adbd=5
+1.492989792E9 64 com.att.arocollector=29 com.facebook.orca=7 /system/bin/surfaceflinger=7 top=7
+1.492989794E9 66 com.att.arocollector=29 com.facebook.orca=8 top=8 /system/bin/surfaceflinger=6 /sbin/adbd=4
+1.492989797E9 70 com.att.arocollector=26 /sbin/adbd=9 /system/bin/surfaceflinger=7 top=7 com.facebook.orca=6
+1.492989799E9 73 com.att.arocollector=28 /sbin/adbd=11 com.facebook.orca=7 top=6 /system/bin/surfaceflinger=6 screencap=2
+1.492989802E9 72 com.att.arocollector=26 /sbin/adbd=7 top=6 /system/bin/surfaceflinger=6 screencap=5 com.facebook.orca=5
+1.492989804E9 67 com.att.arocollector=29 com.facebook.orca=8 /system/bin/surfaceflinger=7 top=7 /sbin/adbd=3
+1.492989807E9 65 com.att.arocollector=29 com.facebook.orca=11 top=7 /system/bin/surfaceflinger=6 /sbin/adbd=3
+1.492989809E9 74 com.att.arocollector=29 /sbin/adbd=10 top=6 com.facebook.orca=6 /system/bin/surfaceflinger=6 media.codec=1 /system/bin/mediaserver=1 /system/bin/audioserver=1
+1.492989812E9 74 com.att.arocollector=33 com.facebook.orca=12 /sbin/adbd=11 top=8 /system/bin/surfaceflinger=6 screencap=2
+1.492989815E9 62 com.att.arocollector=31 /sbin/adbd=11 top=8 screencap=5 com.facebook.orca=2 /system/bin/surfaceflinger=1
+1.492989817E9 61 com.att.arocollector=31 /sbin/adbd=12 top=8 screencap=2 com.facebook.orca=1
+1.49298982E9 61 com.att.arocollector=31 /sbin/adbd=13 top=8 screencap=2 com.facebook.orca=1
+1.492989822E9 59 com.att.arocollector=33 /sbin/adbd=14 top=8 com.facebook.orca=1
+1.492989825E9 61 com.att.arocollector=30 /sbin/adbd=14 top=7 /system/bin/rmt_storage=2 com.facebook.orca=2
+1.492989827E9 59 com.att.arocollector=31 /sbin/adbd=13 top=6 com.facebook.orca=1
+1.49298983E9 60 com.att.arocollector=32 /sbin/adbd=12 top=8 /system/bin/surfaceflinger=1
+1.492989832E9 60 com.att.arocollector=31 /sbin/adbd=12 top=7 com.facebook.orca=1 /system/bin/surfaceflinger=1
+1.492989835E9 82 com.att.arocollector=29 app_process=21 /sbin/adbd=9 top=6 com.facebook.orca=2
