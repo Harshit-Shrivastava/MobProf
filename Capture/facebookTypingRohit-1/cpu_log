@@ -1,0 +1,88 @@
+1.492989746952E9 cpu file processing started
+1.492989746953E9 start processing 1492989742
+1.492989746958E9 4ms| 74 com.att.arocollector=12 com.facebook.orca=3
+1.492989751951E9 cpu file processing started
+1.492989751953E9 start processing 1492989748
+1.492989751958E9 5ms| 72 com.att.arocollector=30 com.application.zomato=16 com.google.android.apps.plus=2 com.facebook.orca=2
+1.492989756951E9 cpu file processing started
+1.492989756957E9 start processing 1492989753
+1.492989756972E9 15ms| 65 com.att.arocollector=35 com.facebook.orca=1 com.google.android.gms.persistent=1
+1.492989761951E9 cpu file processing started
+1.492989761955E9 start processing 1492989758
+1.492989761972E9 17ms| 63 com.att.arocollector=39 com.facebook.orca=1 top=1
+1.492989766951E9 cpu file processing started
+1.492989766955E9 start processing 1492989763
+1.492989766956E9 1ms| 
+1.492989771951E9 cpu file processing started
+1.492989771954E9 start processing 1492989763
+1.49298977196E9 5ms| 61 com.att.arocollector=37 com.facebook.orca=1
+1.492989771961E9 start processing 1492989769
+1.492989771962E9 1ms| 
+1.492989776951E9 cpu file processing started
+1.492989776953E9 start processing 1492989774
+1.492989776954E9 1ms| 
+1.492989776954E9 start processing 1492989769
+1.492989776958E9 4ms| 56 com.att.arocollector=29 com.google.android.inputmethod.latin=7 com.facebook.orca=2
+1.492989781951E9 cpu file processing started
+1.492989781953E9 start processing 1492989774
+1.492989781961E9 7ms| 62 com.att.arocollector=38 com.google.android.inputmethod.latin=3 com.facebook.orca=2 top=1
+1.492989781966E9 start processing 1492989779
+1.492989781966E9 0ms| 
+1.492989786953E9 cpu file processing started
+1.492989786961E9 start processing 1492989784
+1.492989786973E9 1ms| 
+1.492989786973E9 start processing 1492989779
+1.49298978698E9 6ms| 60 com.att.arocollector=29 com.google.android.inputmethod.latin=5 com.facebook.orca=1
+1.492989791951E9 cpu file processing started
+1.492989791953E9 start processing 1492989784
+1.492989791957E9 4ms| 57 com.att.arocollector=36 com.facebook.orca=2 com.google.android.inputmethod.latin=2
+1.492989791958E9 start processing 1492989789
+1.492989791958E9 0ms| 
+1.492989796952E9 cpu file processing started
+1.492989796957E9 start processing 1492989795
+1.492989796959E9 1ms| 
+1.49298979696E9 start processing 1492989789
+1.492989796966E9 6ms| 58 com.att.arocollector=31 com.google.android.inputmethod.latin=6 com.facebook.orca=2
+1.492989801951E9 cpu file processing started
+1.492989801955E9 start processing 1492989795
+1.492989801959E9 4ms| 60 com.att.arocollector=32 com.google.android.inputmethod.latin=7 com.facebook.orca=2
+1.492989801961E9 start processing 1492989800
+1.492989801962E9 1ms| 
+1.492989806951E9 cpu file processing started
+1.492989806955E9 start processing 1492989805
+1.492989806956E9 1ms| 
+1.492989806957E9 start processing 1492989800
+1.492989806964E9 7ms| 61 com.att.arocollector=36 com.facebook.orca=1
+1.492989811951E9 cpu file processing started
+1.492989811953E9 start processing 1492989805
+1.492989811963E9 9ms| 67 com.att.arocollector=39 com.facebook.orca=3
+1.492989811964E9 start processing 1492989810
+1.492989811968E9 4ms| 
+1.492989816951E9 cpu file processing started
+1.492989816955E9 start processing 1492989815
+1.492989816958E9 2ms| 
+1.492989816964E9 start processing 1492989810
+1.492989816971E9 7ms| 57 com.att.arocollector=30 com.facebook.orca=4 com.google.android.inputmethod.latin=2
+1.492989821951E9 cpu file processing started
+1.492989821954E9 start processing 1492989815
+1.49298982196E9 6ms| 58 com.att.arocollector=34 com.google.android.inputmethod.latin=3 com.facebook.orca=3
+1.492989821961E9 start processing 1492989821
+1.492989821962E9 1ms| 
+1.492989826951E9 cpu file processing started
+1.492989826953E9 start processing 1492989826
+1.492989826955E9 1ms| 
+1.492989826955E9 start processing 1492989821
+1.492989826962E9 6ms| 58 com.att.arocollector=40 com.facebook.orca=1 top=1
+1.492989831951E9 cpu file processing started
+1.492989831955E9 start processing 1492989826
+1.492989831962E9 7ms| 75 com.att.arocollector=51 com.facebook.orca=1
+1.492989831963E9 start processing 1492989831
+1.492989831966E9 3ms| 
+1.492989836952E9 cpu file processing started
+1.492989836959E9 start processing 1492989836
+1.492989836962E9 2ms| 
+1.492989836963E9 start processing 1492989831
+1.492989836969E9 5ms| 62 com.att.arocollector=41 com.facebook.orca=1
+1.49298984077E9 cpu file processing started
+1.492989840772E9 start processing 1492989836
+1.492989840775E9 3ms| 62 com.att.arocollector=40 com.facebook.orca=1
